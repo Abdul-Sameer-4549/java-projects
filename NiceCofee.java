@@ -1,34 +1,8 @@
+//i made a cofee token printing machine
 import java.util.Scanner;
 
 public class MySwitch {
     public static void main(String[] args) {
-       /*String day = "Sunday";
-
-        switch (day) {
-            case "Monday": System.out.println("there is Monday!");
-                break;
-
-                case "Tuesday": System.out.println("there is Tuesday!");
-                break;
-
-                case "Wednesday": System.out.println("there is Wednesday!");
-                break;
-
-                case "Thursday": System.out.println("there is Thursday!");
-                break;
-
-                case "Friday": System.out.println("there is Friday!");
-                break;
-
-                case "Saturday": System.out.println("there is Saturday!");
-                break;
-
-                case "Sunday": System.out.println("Wooh Oh fun Day !");
-                break;
-            default:
-                break;*/
-
-
                 Scanner hotel = new Scanner(System.in);
                 System.out.println("1: Green tea");
                 System.out.println("2: chai");
